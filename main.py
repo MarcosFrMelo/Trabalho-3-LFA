@@ -1,3 +1,6 @@
+#Feito por Marcos Freire de Melo e Luiz Felipe da Paz Leal
+
+
 import tkinter as tk
 from tkinter import scrolledtext
 import copy
